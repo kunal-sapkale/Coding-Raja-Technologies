@@ -6,7 +6,8 @@ This project is all about web-based resume builder I created during my internshi
 
 1. **Clone the Repository:**
 
-   ```bash https://github.com/kunal-sapkale/Coding-Raja-Technologies.git
+   ```bash
+   https://github.com/kunal-sapkale/Coding-Raja-Technologies.git
    ```
 
 2. **Open the Project:**
