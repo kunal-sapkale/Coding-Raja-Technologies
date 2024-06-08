@@ -7,7 +7,7 @@ This project is all about web-based resume builder I created during my internshi
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Velang2003/Coding-Raja-Technologies-Internship-.git
+  
    ```
 
 2. **Open the Project:**
